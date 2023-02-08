@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Indian Ancient Kings</title>
+  </head>
+  <body>
+    <header>
+      <h1>Indian Ancient Kings</h1>
+      <nav>
+        <ul>
+          <li><a href="#ashoka">Ashoka</a></li>
+          <li><a href="#harsha">Harsha</a></li>
+          <li><a href="#vikramaditya">Vikramaditya</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="ashoka">
+        <h2>Ashoka the Great</h2>
+        <p>Ashoka was an ancient Indian king who ruled from 268 to 232 BCE. He was one of the greatest and most respected monarchs in Indian history, known for his military conquests and for promoting Buddhism.</p>
+        <img src="ashoka.jpg" alt="Ashoka the Great">
+      </section>
+      <section id="harsha">
+        <h2>Harsha</h2>
+        <p>Harsha was an ancient Indian king who ruled from 606 to 647 CE. He was known for his military conquests, as well as for his patronage of the arts and his support for Buddhism.</p>
+        <img src="harsha.jpg" alt="Harsha">
+      </section>
+      <section id="vikramaditya">
+        <h2>Vikramaditya</h2>
+        <p>Vikramaditya was an ancient Indian king who ruled from 1st century BCE to 1st century CE. He was known for his military conquests, as well as for his patronage of the arts and his support for Hinduism.</p>
+        <img src="vikramaditya.jpg" alt="Vikramaditya">
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 Indian Ancient Kings</p>
+    </footer>
+  </body>
+  <script src="script.js"></script>
+</html>
